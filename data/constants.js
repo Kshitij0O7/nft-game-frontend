@@ -1,6 +1,6 @@
-const alchemyApiKey = "ozyn6coXmHuryhrsOg2woy8lqdEoCoGy";
-const ownerAddress = "0xc361Fc33b99F88612257ac8cC2d852A5CEe0E217";
-const contractAddress = "0xDDd5bBAFd1F4318277446e17C9ebDcD079977d0C";
+const alchemyApiKey = "qsmBqL-17wbolk3wYM-Lw4QkMhZzinqb";
+const ownerAddress = "0x522Eca2Ba84f98355684aA3335A81cf9126adBE8";
+const contractAddress = "0x610A4F993E5E2D6eDa7662a14168b402EA10c6CA";
 
 /*
 Getnftmetadata
