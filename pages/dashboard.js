@@ -33,6 +33,8 @@ export default function Dashboard() {
         network: Network.ETH_GOERLI,
     };
 
+    console.log(process.env.TWITCH_CLIENT_ID);
+
     const alchemy = new Alchemy(settings);
 
     // Mounting fix to avoid hydration errors
