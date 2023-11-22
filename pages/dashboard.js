@@ -33,7 +33,7 @@ export default function Dashboard() {
         network: Network.ETH_GOERLI,
     };
 
-    console.log(process.env.TWITCH_CLIENT_ID);
+    console.log(process.env.NEXT_PUBLIC_TWITCH_CLIENT_ID);
 
     const alchemy = new Alchemy(settings);
 
